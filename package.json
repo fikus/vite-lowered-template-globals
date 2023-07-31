@@ -11,5 +11,10 @@
   "devDependencies": {
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
+  },
+  "pnpm": {
+    "overrides": {
+      "vite": "link:../vite/packages/vite"
+    }
   }
 }
