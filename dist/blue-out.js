@@ -1,1 +1,1 @@
-var t=Object.freeze,e=Object.defineProperty;var c=(n,o)=>t(e(n,"raw",{value:t(o||n.slice())}));var s;(function(){"use strict";const n=String.raw,o=n(s||(s=c(["blue"])));console.log("BLUE",o)})();
+var c,Blue=function(n){"use strict";var e=Object.freeze,u=Object.defineProperty;var o=(n,t)=>e(u(n,"raw",{value:e(t||n.slice())}));const t=String.raw,l=t(c||(c=o(["blue"])));console.log("BLUE",l);const r=()=>{};return n.f=r,Object.defineProperty(n,Symbol.toStringTag,{value:"Module"}),n}({});
